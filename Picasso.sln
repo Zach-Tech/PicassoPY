@@ -1,0 +1,9 @@
+import pyautogui
+
+pyautogui.moveTo(1200,500,2)
+pyautogui.dragTo(800,900,2,button = 'left')
+pyautogui.dragTo(400,500,2, button ='left')
+pyautogui.moveTo(650,450,1)
+pyautogui.moveTo(900,450,1)
+pyautogui.moveTo(900, 500, 1)
+pyautogui.moveTo(1000,0, 2)
